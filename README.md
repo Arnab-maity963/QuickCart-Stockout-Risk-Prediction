@@ -173,8 +173,6 @@ Note: File names may vary depending on the final project implementation.
 
 Clone the repository:
 
-git clone https://github.com/your-username/QuickCart-Stockout-Risk.git
-
 Move into the project directory:
 
 cd QuickCart-Stockout-Risk
@@ -199,9 +197,6 @@ streamlit run app.py
 
 After running the command, Streamlit will provide a local URL similar to:
 
-http://localhost:8501
-
-Open the URL in a web browser to access the dashboard.
 
 13. Using the Dashboard
 
